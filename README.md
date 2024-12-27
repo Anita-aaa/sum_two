@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+Area of circle
 
-This project is a starting point for a Flutter application.
+![Screenshot_1735281428](https://github.com/user-attachments/assets/0bc2b572-bba8-4381-b22e-7af3257f277d)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Simple Interest
+![Screenshot_1735281901](https://github.com/user-attachments/assets/b3d30fa2-4c2f-4937-b613-84ffd8148f1d)
