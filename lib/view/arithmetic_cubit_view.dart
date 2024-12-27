@@ -15,7 +15,7 @@ class ArithmeticCubicView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Arithmetic Cubit'),
+        title: const Text('Anita_Arithmetic Cubit'),
         centerTitle: true,
       ),
       body: Padding(
